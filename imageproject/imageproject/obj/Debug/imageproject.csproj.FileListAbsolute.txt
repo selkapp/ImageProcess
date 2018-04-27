@@ -1,0 +1,30 @@
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\imageproject.exe.config
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\obj\Debug\imageproject.csprojResolveAssemblyReference.cache
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\obj\Debug\imageproject.Form1.resources
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\obj\Debug\imageproject.Properties.Resources.resources
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\obj\Debug\imageproject.csproj.GenerateResource.Cache
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\imageproject.exe
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\imageproject.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\OpenCvSharp.dll
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\OpenCvSharp.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\OpenCvSharp.xml
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\obj\Debug\imageproject.exe
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\obj\Debug\imageproject.pdb
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\obj\Debug\imageproject.Form2.resources
+C:\Users\Selcan Kebelioğlu\Desktop\imageproject\imageproject\obj\Debug\imageproject.Form3.resources
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\imageproject\imageproject\bin\Debug\imageproject.exe.config
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\imageproject\imageproject\obj\Debug\imageproject.exe
+C:\Users\Selcan Kebelioğlu\Documents\Visual Studio 2015\Projects\imageproject\imageproject\obj\Debug\imageproject.pdb

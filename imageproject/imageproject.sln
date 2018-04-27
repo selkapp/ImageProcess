@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imageproject", "imageproject\imageproject.csproj", "{9D5CD2F9-147A-4C48-B80D-459F22CE3A59}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "goruntu_setup", "goruntu_setup\goruntu_setup.vdproj", "{E1715B0A-7018-4BB1-8730-E80D2FFB72A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D5CD2F9-147A-4C48-B80D-459F22CE3A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5CD2F9-147A-4C48-B80D-459F22CE3A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5CD2F9-147A-4C48-B80D-459F22CE3A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5CD2F9-147A-4C48-B80D-459F22CE3A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1715B0A-7018-4BB1-8730-E80D2FFB72A8}.Debug|Any CPU.ActiveCfg = Debug
+		{E1715B0A-7018-4BB1-8730-E80D2FFB72A8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
